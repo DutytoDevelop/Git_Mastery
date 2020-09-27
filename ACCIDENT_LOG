@@ -1,0 +1,9 @@
+Accident Log:
+~~~~~~~~~~~~~~~~
+Event: Accidental checkout of branch 210a6 when attempting to modify first commit message to include hash.
+Fix:
+git reflog
+6bb5aa9 (HEAD) HEAD@{0}: rebase (start): checkout 210a6
+9404623 (main/main, main) HEAD@{1}
+Date: 9/27/2020
+---
